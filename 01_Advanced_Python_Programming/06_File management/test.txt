@@ -1,0 +1,4 @@
+fichero prueba linea 1
+ficherp prueba linea 2
+ficherp prueba linea 3
+ficherp prueba linea 4
